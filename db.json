@@ -1,16 +1,68 @@
 {
   "verses": [
     {
-      "id": 1,
-      "title": "James"
+      "content": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law. ",
+      "title": "Galatians 5:22-23"
     },
     {
-      "id": 2,
-      "title": "Post 2"
+      "content": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+      "title": "2 Corinthians 5:17"
     },
     {
-      "id": 3,
-      "title": "Post 3"
+      "content": "Therefore, there is now no condemnation for those who are in Christ Jesus, because through Christ Jesus the law of the Spirit who gives life has set you free from the law of sin and death.",
+      "title": "Romans 8:1-2"
+    },
+    {
+      "content": "My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am.",
+      "title": "John 14:2-3"
+    },
+    {
+      "content": "but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life.",
+      "title": "John 4:14"
+    },
+    {
+      "content": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+      "title": "Philippians 4:6-7"
+    },
+    {
+      "content": "being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.",
+      "title": "Philippians 1:6"
+    },
+    {
+      "content": "For the Son of Man came to seek and to save the lost.",
+      "title": "Luke 19:10"
+    },
+    {
+      "content": "But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect",
+      "title": "1 Peter 3:15"
+    },
+    {
+      "content": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God— not by works, so that no one can boast. For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.",
+      "title": "Ephesians 2:8-10"
+    },
+    {
+      "content": "The Lordis my shepherd, I lack nothing",
+      "title": "Psalms 23:1"
+    },
+     {
+      "content": "He makes me lie down in green pastures, he leads me beside quiet waters",
+      "title": "Psalms 23:2"
+    },
+    {
+      "content": "he refreshes my soul. He guides me along the right paths for his name’s sake.",
+      "title": "Psalms 23:3"
+    },
+    {
+      "content": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+      "title": "Psalms 23:4"
+    },
+    {
+      "content": "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.",
+      "title": "Psalms 23:5"
+    },
+    {
+      "content": "Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.",
+      "title": "Psalms 23:6"
     }
   ]
 }
