@@ -1,68 +1,82 @@
 {
-  "verses": [
-    {
-      "content": "But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law. ",
-      "title": "Galatians 5:22-23"
-    },
-    {
-      "content": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
-      "title": "2 Corinthians 5:17"
-    },
-    {
-      "content": "Therefore, there is now no condemnation for those who are in Christ Jesus, because through Christ Jesus the law of the Spirit who gives life has set you free from the law of sin and death.",
-      "title": "Romans 8:1-2"
-    },
-    {
-      "content": "My Father’s house has many rooms; if that were not so, would I have told you that I am going there to prepare a place for you? And if I go and prepare a place for you, I will come back and take you to be with me that you also may be where I am.",
-      "title": "John 14:2-3"
-    },
-    {
-      "content": "but whoever drinks the water I give them will never thirst. Indeed, the water I give them will become in them a spring of water welling up to eternal life.",
-      "title": "John 4:14"
-    },
-    {
-      "content": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
-      "title": "Philippians 4:6-7"
-    },
-    {
-      "content": "being confident of this, that he who began a good work in you will carry it on to completion until the day of Christ Jesus.",
-      "title": "Philippians 1:6"
-    },
-    {
-      "content": "For the Son of Man came to seek and to save the lost.",
-      "title": "Luke 19:10"
-    },
-    {
-      "content": "But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect",
-      "title": "1 Peter 3:15"
-    },
-    {
-      "content": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God— not by works, so that no one can boast. For we are God’s handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do.",
-      "title": "Ephesians 2:8-10"
-    },
-    {
-      "content": "The Lordis my shepherd, I lack nothing",
-      "title": "Psalms 23:1"
-    },
-     {
-      "content": "He makes me lie down in green pastures, he leads me beside quiet waters",
-      "title": "Psalms 23:2"
-    },
-    {
-      "content": "he refreshes my soul. He guides me along the right paths for his name’s sake.",
-      "title": "Psalms 23:3"
-    },
-    {
-      "content": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
-      "title": "Psalms 23:4"
-    },
-    {
-      "content": "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.",
-      "title": "Psalms 23:5"
-    },
-    {
-      "content": "Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.",
-      "title": "Psalms 23:6"
-    }
-  ]
+  "verses": {
+    "liveTheNewLife": [
+      {
+        "content": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+        "title": "2 Corinthians 5:17"
+      },
+      {
+        "content": "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.",
+        "title": "Galatians 2:20"
+      },
+      {
+        "content": "Whoever has my commands and keeps them is the one who loves me. The one who loves me will be loved by my Father, and I too will love them and show myself to them.",
+        "title": "John 14:21"
+      },
+      {
+        "content": "Therefore, I urge you, brothers and sisters, in view of God’s mercy, to offer your bodies as a living sacrifice, holy and pleasing to God—this is your true and proper worship.",
+        "title": "Romans 12:1"
+      },
+      {
+        "content": "All Scripture is God-breathed and is useful for teaching, rebuking, correcting and training in righteousness.",
+        "title": "2 Timothy 3:16"
+      },
+      {
+        "content": "Keep this Book of the Law always on your lips; meditate on it day and night, so that you may be careful to do everything written in it. Then you will be prosperous and successful.",
+        "title": "Joshua 1:8"
+      },
+      {
+        "content": "If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you.",
+        "title": "John 15:7"
+      },
+      {
+        "content": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+        "title": "Philippians 4:6-7"
+      },
+      {
+        "content": "We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ.",
+        "title": "1 John 1:3"
+      },
+      {
+        "content": "And let us consider how we may spur one another on toward love and good deeds, not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching.",
+        "title": "Hebrews 10:24-25"
+      },
+      {
+        "content": "“Come, follow me,” Jesus said, “and I will send you out to fish for people.”",
+        "title": "Matthew 4:19"
+      },
+      {
+        "content": "For I am not ashamed of the gospel, because it is the power of God that brings salvation to everyone who believes: first to the Jew, then to the Gentile.",
+        "title": "Romans 1:16"
+      }
+    ],
+    "proclaimChrist": [
+      {
+        "content": "for all have sinned and fall short of the glory of God",
+        "title": "Romans 3:23"
+      },
+      {
+        "content": "We all, like sheep, have gone astray, each of us has turned to our own way; and the LORD has laid on him the iniquity of us all.",
+        "title": "Isaiah 53:6"
+      }
+    ],
+    "godsResources": [
+      {
+        "content": "Don’t you know that you yourselves are God’s temple and that God’s Spirit dwells in your midst?",
+        "title": "1 Corinthians 3:16"
+      }
+    ],
+    "christDisciple": [
+      {
+        "content": "But seek first his kingdom and his righteousness, and all these things will be given to you as well.",
+        "title": "Matthew 6:33"
+      }
+    ],
+    "GrowInChrist": [
+      {
+        "content": "A new command I give you: Love one another. As I have loved you, so you must love one another. By this everyone will know that you are my disciples, if you love one another.",
+        "title": "John 13:34-35"
+      }
+    ]
+  }
 }
