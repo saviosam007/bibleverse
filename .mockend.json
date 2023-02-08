@@ -1,0 +1,17 @@
+{
+  "User": {
+    "_": {
+      // Define how many items you need 
+      "items": 50,
+      // Set custom data
+      "data": [
+	{ "name": "John Doe", "online": true, "picture": "https://…" }
+      ]
+    },
+    // Use random generators
+    "name": { "string": {} },
+    "online": { "boolean": {} },
+    "picture": { "regexp": "https://…" },
+    "posts": { "hasMany": "Post" }
+  }
+}
